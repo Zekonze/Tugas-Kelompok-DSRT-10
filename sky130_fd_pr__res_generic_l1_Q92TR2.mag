@@ -1,0 +1,19 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1783190368
+<< locali >>
+rect -120 2160 120 2217
+rect -120 -2217 120 -2160
+<< rlocali >>
+rect -120 -2160 120 2160
+<< labels >>
+rlabel locali 0 2200 0 2200 0 R1
+port 1 nsew
+rlabel locali 0 -2200 0 -2200 0 R2
+port 2 nsew
+<< properties >>
+string gencell sky130_fd_pr__res_generic_l1
+string library sky130
+string parameters w 1.2 l 21.6 m 1 nx 1 wmin 0.17 lmin 0.17 class resistor rho 12.8 val 230.4 dummy 0 dw 0.0 term 0.0 snake 0 roverlap 0 doports 1
+<< end >>
